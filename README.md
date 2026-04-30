@@ -8,6 +8,7 @@
 > 🎬 **Bilibili 配套课程资料下载站**
 >
 > 本仓库提供我在 Bilibili 上发布的教程视频的配套学习资料，包括源代码、课件、练习题等。
+> 我的bilibili个人空间：https://space.bilibili.com/3461579163043841
 
 </div>
 
